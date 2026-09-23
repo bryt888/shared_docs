@@ -1,6 +1,8 @@
 
 # Jev: Separating “Judgment” from Large Language Models
 
+![Jev Overview and Examples](Jev-Summary_Examples.png)
+
 ## 1. What Is Jev?
 
 The blogger’s core description of Jev is:
