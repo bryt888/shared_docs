@@ -1,4 +1,7 @@
 # Jev Accuracy, Confidence, Cost, and Latency  
+
+![Jev Check with Kaggle Data](Jev-CheckWithKaggleData.png)
+
 ## An Independent Benchmark Test
 
 This test is particularly interesting because, instead of simply discussing Jev conceptually, the blogger tested it against **public datasets with human-labeled ground truth** and compared the results with a general-purpose LLM.
