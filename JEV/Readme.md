@@ -2,7 +2,8 @@
 
 ### Jev Model — Quick Introduction
 - https://typesafe.ai/
-**Jev** is a lightweight AI model developed by **Vercel**. Unlike a traditional large language model (LLM) designed mainly to generate text, Jev is designed primarily for **fast decision-making and classification**.
+  
+**Jev is a lightweight probabilistic decision model developed by TypeSafe AI. It is available directly from TypeSafe AI and through platforms such as Vercel AI Gateway and Cloudflare.**
 
 * **Who built it:** Vercel
 * **What it does:** Takes structured or semi-structured information and quickly produces a **decision, classification, score, or probability**.
@@ -15,3 +16,9 @@
 In simple terms:
 
 > **LLMs are optimized to generate answers; Jev is optimized to make decisions.**
+
+### APIs Available:
+- Vercel: https://vercel.com/ai-gateway/models/jev
+  - Vercel Guide: https://vercel.com/connect/jev
+  - Vercel 6 ways to integrate Jev: https://vercel.com/connect/jev
+- CloudFlare: https://developers.cloudflare.com/workers-ai/models/
