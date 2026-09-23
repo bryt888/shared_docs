@@ -1,5 +1,7 @@
 - https://www.youtube.com/watch?v=Ptwhkqut2Q0&t=635s
-  
+
+![Jev Check with Kaggle Data](Jev-CheckWithKaggleData.png)
+
 这个测试比前一个博主单纯介绍 Jev 更有价值，因为他真正拿了**有人工标注 Ground Truth 的公开数据集**来测，而且还加入了通用 LLM 作为对照。核心结论其实非常清楚：
 
 > **Jev 并没有让分类变得更准确；它真正的优势是：在接近通用 LLM 准确率的情况下，更快、更便宜，而且它的 Confidence 很适合用来做“自动处理 / 升级处理”的门控。**
