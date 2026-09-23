@@ -22,3 +22,6 @@ In simple terms:
   - Vercel Guide: https://vercel.com/connect/jev
   - Vercel 6 ways to integrate Jev: https://vercel.com/connect/jev
 - CloudFlare: https://developers.cloudflare.com/workers-ai/models/
+
+
+![Jev Overview and Examples](Jev-Summary_Examples.png)
